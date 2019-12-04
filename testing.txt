@@ -1,1 +1,1 @@
-ECHO
+STASH command testing
